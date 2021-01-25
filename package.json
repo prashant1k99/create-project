@@ -13,5 +13,10 @@
     "express create project"
   ],
   "author": "Prashant Singh <prashantco111@gmail.com> (myPortfolio site)",
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
   "license": "MIT"
 }
