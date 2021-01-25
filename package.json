@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "CLI for creating basic template application using different options.",
   "main": "src/index.js",
+  "bin": {
+    "@prashant1k99/create-project": "bin/create-project",
+    "@ps/create-project": "bin/create-project",
+    "@ps/cp": "bin/create-project",
+    "create-project": "bin/create-project"
+  },
   "keywords": [
     "CLI",
     "Create-Project",
@@ -13,10 +19,24 @@
     "express create project"
   ],
   "author": "Prashant Singh <prashantco111@gmail.com> (myPortfolio site)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashant1k99/create-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prashant1k99/create-project/issues"
+  },
+  "homepage": "https://github.com/prashant1k99/create-project#cli-prashant1k99create-app",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "bin/",
     "src/",
     "templates/"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "^10.12.0 || ^12.0.0 || >= 14.0.0"
+  }
 }

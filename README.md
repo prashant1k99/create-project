@@ -29,6 +29,7 @@ CLI for creating basic template application using different options.
 NOTE: To add the .gitignore file for node
 
 ### ANCHOR Future Plans
+* [] Add Remote Repo
 * [] UI library [Vue]
   * Vuetify
 * [] Firebase [Vue, Vue3]
