@@ -1,0 +1,17 @@
+{
+  "name": "@prashant1k99/create-project",
+  "version": "0.0.1",
+  "description": "CLI for creating basic template application using different options.",
+  "main": "src/index.js",
+  "keywords": [
+    "CLI",
+    "Create-Project",
+    "node create project",
+    "react create project",
+    "vue create project",
+    "vue3 create project",
+    "express create project"
+  ],
+  "author": "Prashant Singh <prashantco111@gmail.com> (myPortfolio site)",
+  "license": "MIT"
+}
