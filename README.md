@@ -18,8 +18,7 @@ CLI for creating basic template application using different options.
   * --install | -i
   * --help | -h
   * --version | -v
-  * --js
-  * --ts
+  * --lang [js, ts]
   * --type [node-express]
 * [ ] CLI will ask the questions:
   * [ ] Check if folder with app name already exists in the cwd [if exists, ask for overwrite]
